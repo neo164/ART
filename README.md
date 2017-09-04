@@ -1,9 +1,6 @@
-<style>
-background-color: #c7b39b;
-</style>
 # ART
 art-edu-prj
-<ul>
+<ul style:background-color: #c7b39b;>
 <li>JDBC - simple sql qerry from my home db</li>
 <li>PerfomanceExample2 - job with java collection framework</li> 
 <li>book_lib - job with Xpath in xml files</li>
