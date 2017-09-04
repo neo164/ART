@@ -1,5 +1,5 @@
 # ART
-art-edu-prj
+<h2>art-edu-prj</h2>
 <ul style:background-color: #c7b39b;>
 <li>JDBC - simple sql qerry from my home db</li>
 <li>PerfomanceExample2 - job with java collection framework</li> 
