@@ -2,6 +2,7 @@
 <h2>art-edu-prj</h2>
 <ul style:background-color: #c7b39b;>
 <li>JDBC - simple sql qerry from my home db</li>
+<li>PetZoo - Simple CRUD application use spring</li>
 <li>PerfomanceExample2 - job with java collection framework</li> 
 <li>book_lib - job with Xpath in xml files</li>
 <li>calc - Polish notation</li>
